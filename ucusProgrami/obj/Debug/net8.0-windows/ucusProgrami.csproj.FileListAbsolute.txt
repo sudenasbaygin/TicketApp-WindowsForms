@@ -1,0 +1,17 @@
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\bin\Debug\net8.0-windows\ucusProgrami.exe
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\bin\Debug\net8.0-windows\ucusProgrami.deps.json
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\bin\Debug\net8.0-windows\ucusProgrami.runtimeconfig.json
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\bin\Debug\net8.0-windows\ucusProgrami.dll
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\bin\Debug\net8.0-windows\ucusProgrami.pdb
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.Form1.resources
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.Form2.resources
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.csproj.GenerateResource.cache
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.AssemblyInfoInputs.cache
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.AssemblyInfo.cs
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.csproj.CoreCompileInputs.cache
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.dll
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\refint\ucusProgrami.dll
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.pdb
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ucusProgrami.genruntimeconfig.cache
+C:\Users\suden\source\repos\ucusProgrami\ucusProgrami\obj\Debug\net8.0-windows\ref\ucusProgrami.dll
